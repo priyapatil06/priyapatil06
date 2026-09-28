@@ -21,10 +21,6 @@ An AI-powered platform that transforms unstructured stakeholder conversations in
 
 A digital wardrobe product for organizing clothing and building toward personalized, event-based outfit planning. The current experience supports adding, viewing, and editing wardrobe items.
 
-### LLM Evaluation Harness
-
-An evaluation framework for testing AI-assistant accuracy, tone, hallucination risk, refusal behavior, prompt versions, quality thresholds, and regressions.
-
 ## About Me
 
 - 🎓 M.S. in Computer Science from California State University, Long Beach
